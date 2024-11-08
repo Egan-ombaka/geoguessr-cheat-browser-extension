@@ -1,6 +1,3 @@
-# ApvGuesser - GeoGuessr Chrome Extension
-![APV_GUESSR_HEADER](https://github.com/realapire/geoguessr-cheat/assets/111300928/67d869d9-8747-49f0-84aa-27496acf9697)
-
 - **Tested in All Main Game Modes**<br>
 - **Features: Auto Pin and Location Popup**<br>
 
@@ -20,11 +17,6 @@
    - Open Settings Tab In-Game and there will be a 'SAFE-MODE' checkbox.
 
 <hr>
-
-User-Interface Without ApvGuessr:<br>
-![image](https://github.com/realapire/geoguessr-cheat/assets/111300928/365ef2d8-5b58-437b-9727-9f126da66c66)
-![image](https://github.com/realapire/geoguessr-cheat/assets/111300928/7ebde62d-dd3b-4160-b28e-529c017a02a9)
-
 User-Interface With ApvGuessr:
 
 ![image](https://github.com/realapire/geoguessr-cheat/assets/111300928/87441a6f-0fdb-4032-9600-73cb5f16bdd9)
