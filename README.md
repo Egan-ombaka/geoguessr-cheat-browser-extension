@@ -12,6 +12,7 @@
    - Enable the "Developer mode" toggle switch in the top right corner.
    - Click on the "Load unpacked" button and select the directory where you saved the extension files.
 
+
 2. **Usage**
    - After installing the extension, navigate to a GeoGuessr game session.
      <br>**KEYBINDS BELOW ONLY WORK WITH SAFE-MODE OFF**
