@@ -1,5 +1,4 @@
 # ApvGuesser - GeoGuessr Chrome Extension
-![APV_GUESSR_HEADER](https://github.com/realapire/geoguessr-cheat/assets/111300928/67d869d9-8747-49f0-84aa-27496acf9697)
 
 - **Tested in All Main Game Modes**<br>
 - **Features: Auto Pin and Location Popup**<br>
